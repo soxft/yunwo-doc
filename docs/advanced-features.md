@@ -32,12 +32,7 @@
 - API 端点（Endpoint）：`https://openrouter.ai/api/v1`
 - 密钥（API Key）：`sk-or-v1-88271******************ca5328`
 
-其他常用模型申请地址：
-
-- `https://cdn.openai-hub.com/v1`（GPT 国内代理）
-- `https://cloud.siliconflow.cn/i/YOe1599A`（硅基流动）
-- `https://www.volcengine.com/`（火山引擎）
-- `https://platform.deepseek.com/sign_in`（DeepSeek）
+> 其他模型相间 [模接口型注册教程](llm-api.md)
 
 首先按照指引添加模型提供商。
 
