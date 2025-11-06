@@ -36,3 +36,9 @@
     然后点击 **Create**。
 
     ![OpenRouter 新 Key 创建成功](media/llm/openrouter/4keycreated.png)
+
+4. 查看并复制 API Key
+
+    在 Key 管理页面，找到刚刚创建的 API Key，点击右侧的 **复制** 按钮，将其复制到剪贴板。
+
+    ![OpenRouter 复制 API Key](media/llm/openrouter/5copykey.png)
