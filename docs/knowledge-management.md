@@ -8,18 +8,18 @@
 - 在右上角可以将个人笔记共享至企业备忘录中，共享后所有企业成员都能查看。
 - 无论是个人笔记还是企业笔记，都可以在聊天中被检索或提问。
 
-![笔记功能](media/image11.png)
+![笔记功能](media/notes/notes-feature.png)
 
 ## 知识库文件管理
 
-![文件管理入口](media/image13.png)
+![文件管理入口](media/files/management-entry.png)
 
 您可以管理个人知识库和企业知识库（需具备权限），支持批量选择整理好的文件夹或其中的多个文件。
 
 **上传文件**
 
-![上传配置](media/image14.png)
-![上传状态](media/image15.png)
+![上传配置](media/upload/upload-config.png)
+![上传状态](media/upload/upload-status.png)
 
 - 建议在高级选项中根据需要勾选全部类别，确保文件解析效果。
 - 为保证上传过程不中断，应用在关闭后仍会驻留于托盘，仅在托盘中退出才会彻底结束运行。
