@@ -52,19 +52,19 @@
 
 2. 进入工作台
 
-    登录后，点击进入 Workspace/工作台。
+    登录后，点击 **进入工作台**。
 
     ![OpenAI Hub 进入工作台](media/llm/openai-hub/openai-hub-enter-workspace.png)
 
 3. 打开 API 页面
 
-    在导航中选择 **API** 选项卡。
+    在导航中选择 **API令牌** 选项卡。
 
-    ![OpenAI Hub 打开 API 页面](media/llm/openai-hub/openai-hub-api-tab.png)
+    ![OpenAI Hub 打开 API令牌 页面](media/llm/openai-hub/openai-hub-api-tab.png)
 
 4. 选择分组并创建 Key
 
-    在默认分组（Default Group）下，点击 **Create Key** 创建新的 API Key。
+    选择 **默认分组（Default）** 下，点击 **提交** 创建新的 API Key。
 
     ![OpenAI Hub 创建 API Key](media/llm/openai-hub/openai-hub-create-key.png)
 
@@ -84,13 +84,13 @@
 
 2. 打开 API 页面
 
-    在控制台选择 **API** 标签页。
+    在控制台选择 **API密钥** 标签页。
 
-    ![SiliconFlow 打开 API 页面](media/llm/siliconflow/siliconflow-api-tab.png)
+    ![SiliconFlow 打开 API密钥 页面](media/llm/siliconflow/siliconflow-api-tab.png)
 
 3. 创建 API Key
 
-    点击 **Create API Key** 或 **创建 Key**，按提示确认创建。
+    点击 **新建 API 密钥**，按提示确认创建。
 
     ![SiliconFlow 创建 API Key](media/llm/siliconflow/siliconflow-create-key.png)
 
@@ -104,9 +104,9 @@
 
 1. 创建 API Key
 
-    登录 DeepSeek 平台后，进入 API Keys 页面，点击 **Create Key**。
+    注册或登录 DeepSeek 开放平台
 
-    ![DeepSeek 创建 Key](media/llm/deepseek/deepseek-create-key.png)
+    ![DeepSeek 注册](media/llm/deepseek/deepseek-register.png)
 
 2. 打开 API Keys 标签并创建
 
